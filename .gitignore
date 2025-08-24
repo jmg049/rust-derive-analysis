@@ -1,0 +1,6 @@
+/target
+out
+.venv
+*.lock
+*.log
+.ipynb_checkpoints
